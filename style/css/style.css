@@ -28,6 +28,12 @@ h2 {
     font-size: 140%;
 }
 
+a, a:hover {
+    outline: none;
+    text-decoration: underline;
+    color: #aeb002;
+}
+
 
 .header {
     background-color: darkslateblue;
